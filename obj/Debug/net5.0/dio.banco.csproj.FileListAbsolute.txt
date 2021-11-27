@@ -1,0 +1,16 @@
+/home/juninhsilva14/Documents/SI/cursos/cursoTransferenciaBancariaC#/dio.banco/bin/Debug/net5.0/dio.banco
+/home/juninhsilva14/Documents/SI/cursos/cursoTransferenciaBancariaC#/dio.banco/bin/Debug/net5.0/dio.banco.deps.json
+/home/juninhsilva14/Documents/SI/cursos/cursoTransferenciaBancariaC#/dio.banco/bin/Debug/net5.0/dio.banco.runtimeconfig.json
+/home/juninhsilva14/Documents/SI/cursos/cursoTransferenciaBancariaC#/dio.banco/bin/Debug/net5.0/dio.banco.runtimeconfig.dev.json
+/home/juninhsilva14/Documents/SI/cursos/cursoTransferenciaBancariaC#/dio.banco/bin/Debug/net5.0/dio.banco.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoTransferenciaBancariaC#/dio.banco/bin/Debug/net5.0/ref/dio.banco.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoTransferenciaBancariaC#/dio.banco/bin/Debug/net5.0/dio.banco.pdb
+/home/juninhsilva14/Documents/SI/cursos/cursoTransferenciaBancariaC#/dio.banco/obj/Debug/net5.0/dio.banco.csproj.AssemblyReference.cache
+/home/juninhsilva14/Documents/SI/cursos/cursoTransferenciaBancariaC#/dio.banco/obj/Debug/net5.0/dio.banco.GeneratedMSBuildEditorConfig.editorconfig
+/home/juninhsilva14/Documents/SI/cursos/cursoTransferenciaBancariaC#/dio.banco/obj/Debug/net5.0/dio.banco.AssemblyInfoInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/cursoTransferenciaBancariaC#/dio.banco/obj/Debug/net5.0/dio.banco.AssemblyInfo.cs
+/home/juninhsilva14/Documents/SI/cursos/cursoTransferenciaBancariaC#/dio.banco/obj/Debug/net5.0/dio.banco.csproj.CoreCompileInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/cursoTransferenciaBancariaC#/dio.banco/obj/Debug/net5.0/dio.banco.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoTransferenciaBancariaC#/dio.banco/obj/Debug/net5.0/ref/dio.banco.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoTransferenciaBancariaC#/dio.banco/obj/Debug/net5.0/dio.banco.pdb
+/home/juninhsilva14/Documents/SI/cursos/cursoTransferenciaBancariaC#/dio.banco/obj/Debug/net5.0/dio.banco.genruntimeconfig.cache
